@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoSZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c82b50162fbc2c017d0d956e3b84058da5b726")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+533e3ddecfb981181c4039d67027331c5d4576a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoSZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoSZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

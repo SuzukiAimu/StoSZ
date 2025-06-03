@@ -1,10 +1,40 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <OutputType>Exe</OutputType> 
+    <TargetFramework>net9.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishAot>true</PublishAot>
+    <StripSymbols>true</StripSymbols>
+    <IlcOptimizationPreference>Speed</IlcOptimizationPreference>
+    <InvariantGlobalization>true</InvariantGlobalization>
+
+    <ApplicationIcon>app.ico</ApplicationIcon> <!-- アイコン -->
+  
+    <Company></Company>
+    <Authors></Authors>
+    <Product></Product>
+    <Description></Description>
+    <Copyright>(C) 2025 SuzukiAimu</Copyright>
+    <FileVersion>0.0.0.1</FileVersion>
+    <Version>0.0.0.1</Version>
+  
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <None Update="app.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
 </Project>
