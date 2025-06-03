@@ -1,0 +1,15 @@
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\bin\Debug\net9.0\StoSZ.exe
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\bin\Debug\net9.0\StoSZ.deps.json
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\bin\Debug\net9.0\StoSZ.runtimeconfig.json
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\bin\Debug\net9.0\StoSZ.dll
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\bin\Debug\net9.0\StoSZ.pdb
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.AssemblyInfoInputs.cache
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.AssemblyInfo.cs
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.sourcelink.json
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.dll
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\refint\StoSZ.dll
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.pdb
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\StoSZ.genruntimeconfig.cache
+C:\Users\suzuk\_Desktop\rmw\C_sharp\StoSZ\obj\Debug\net9.0\ref\StoSZ.dll
