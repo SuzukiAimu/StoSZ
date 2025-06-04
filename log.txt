@@ -1,0 +1,41 @@
+﻿[2025-06-04 19:34:29] LOG lunching program
+[2025-06-04 19:34:29] DEB found file: ./port/10port.s10p
+[2025-06-04 19:34:29] DEB found file: ./port/1port.s1p
+[2025-06-04 19:34:29] DEB found file: ./port/2port.s2p
+[2025-06-04 19:34:29] DEB found file: ./port/3port.s3p
+[2025-06-04 19:34:29] DEB found file: ./port/4port.s4p
+[2025-06-04 19:34:29] DEB found file: ./port/5port.s5p
+[2025-06-04 19:34:29] DEB found file: ./port/6port.s6p
+[2025-06-04 19:34:29] DEB found file: ./port/7port.s7p
+[2025-06-04 19:34:29] DEB found file: ./port/8port.s8p
+[2025-06-04 19:34:29] DEB found file: ./port/9port.s9p
+[2025-06-04 19:34:29] DEB raw_data[0]: ! Touchstone file version 1.1
+[2025-06-04 19:34:29] DEB comment: ! Touchstone file version 1.1
+[2025-06-04 19:34:29] DEB raw_data[1]: ! Written by SMATRIXIO.2.8.1
+[2025-06-04 19:34:29] DEB comment: ! Written by SMATRIXIO.2.8.1
+[2025-06-04 19:34:29] DEB raw_data[2]: ! Date : Wed Jun  4 14:57:23 2025
+[2025-06-04 19:34:29] DEB comment: ! Date : Wed Jun  4 14:57:23 2025
+[2025-06-04 19:34:29] DEB raw_data[3]: # Hz S RI R 50.000000	
+[2025-06-04 19:34:29] DEB comment: # Hz S RI R 50.000000	
+[2025-06-04 19:34:29] DEB raw_data[4]: ! Port[1] in
+[2025-06-04 19:34:29] DEB comment: ! Port[1] in
+[2025-06-04 19:34:29] DEB raw_data[5]: ! Port[2] in 2
+[2025-06-04 19:34:29] DEB comment: ! Port[2] in 2
+[2025-06-04 19:34:29] DEB raw_data[6]: ! Port[3] in 3
+[2025-06-04 19:34:29] DEB comment: ! Port[3] in 3
+[2025-06-04 19:34:29] DEB raw_data[7]: ! Port[4] in 4
+[2025-06-04 19:34:29] DEB comment: ! Port[4] in 4
+[2025-06-04 19:34:29] DEB raw_data[8]: ! Port[5] in 5
+[2025-06-04 19:34:29] DEB comment: ! Port[5] in 5
+[2025-06-04 19:34:29] DEB raw_data[9]: ! Port[6] in 6
+[2025-06-04 19:34:29] DEB comment: ! Port[6] in 6
+[2025-06-04 19:34:29] DEB raw_data[10]: ! Port[7] in 7
+[2025-06-04 19:34:29] DEB comment: ! Port[7] in 7
+[2025-06-04 19:34:29] DEB raw_data[11]: ! Port[8] in 8
+[2025-06-04 19:34:29] DEB comment: ! Port[8] in 8
+[2025-06-04 19:34:29] DEB raw_data[12]: ! Port[9] in 9
+[2025-06-04 19:34:29] DEB comment: ! Port[9] in 9
+[2025-06-04 19:34:29] DEB raw_data[13]: ! Port[10] in 10
+[2025-06-04 19:34:29] DEB comment: ! Port[10] in 10
+[2025-06-04 19:34:29] DEB raw_data[14]: 1000000 -0.9999999999999999 -1.57098479888474e-13 5.983578965407617e-25 -1.700527462408227e-18 2.033085745127033e-25 -1.75404728776298e-19 1.013373198879348e-26 -5.247171264458869e-20 
+[2025-06-04 19:34:29] LOG program finished
